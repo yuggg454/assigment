@@ -1,0 +1,19 @@
+﻿"Order ID,Name,Product,Quantity,Price,Total",,1=,Convert The CSV file into Table 
+"11280,Bill Smith,Volkswagen Golf,15,30000,450000",,2=,With Text To Columns
+"11281,Kennedi Singh,Toyota Yaris,10,25000,250000",,3=,Add Discount Column
+"11282,Harley Fritz,Seat Panda,150,28000,4200000",,4=,Do formatting And coloring
+"11283,Nyla Novak,Ford Focus,12,30000,360000",,5=,Create a Function to give Discount of 20 % if Buying Quantiy more than 20
+"11284,Ivan Hines,Vauxhall Corsa,20,30000,600000",,,
+"11285,Jonah Higgins,Volkswagen Polo,20,26000,520000",,,
+"11286,Jordan Boone,Kia Sportage,2,30000,60000",,,
+"11287,Kylee Townsend,Ford Fiesta,5,35000,175000",,,
+"11288,Nora Rollins,Seat Ibiza,80,30000,2400000",,,
+"11289,Brendan Walls,Renault Clio,100,26000,2600000",,,
+"11290,Steven Michael,Honda CR-V,20,35000,700000",,,
+"11291,Lucia Mckay,GMC Sierra,25,40000,1000000",,,
+"11292,Josue Roach,Seat Panda,10,28000,280000",,,
+"11293,Franklin Wright,Ford Focus,10,30000,300000",,,
+"11294,Denzel Flores,Vauxhall Corsa,5,30000,150000",,,
+"11295,Bruno Cordova,Volkswagen Polo,180,26000,4680000",,,
+"11296,Jaylynn Knapp,Kia Sportage,5,30000,150000",,,
+"11297,Bruce Rich,Ford Fiesta,250,35000,8750000",,,
